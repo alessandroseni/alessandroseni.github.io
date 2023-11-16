@@ -1,0 +1,35 @@
+body {
+  background-color: #333; /* Dark grey background */
+  color: white; /* White text */
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.content {
+  margin: auto;
+  max-width: 600px;
+}
+
+.profile-pic {
+  width: 120px; /* Larger profile picture */
+  height: 120px; /* Maintain aspect ratio */
+  border-radius: 50%; /* Circular profile picture */
+  margin: 0 auto; /* Center the image */
+  display: block; /* Allows margin auto to center the image */
+}
+
+h1 {
+  font-size: 2em;
+  margin: 0.5em 0;
+}
+
+a {
+  color: #0077cc; /* Initial color for links */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #800080; /* Purple color for link highlights */
+  text-decoration: underline;
+}
