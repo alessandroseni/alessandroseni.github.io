@@ -30,6 +30,6 @@ a {
 }
 
 a:hover {
-  color: #800080; /* Purple color for link highlights */
+  color: #0077cc; /* Purple color for link highlights */
   text-decoration: underline;
 }
