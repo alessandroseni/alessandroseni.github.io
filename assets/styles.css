@@ -24,6 +24,10 @@ h1 {
   margin: 0.5em 0;
 }
 
+p {
+  margin: .8em 0;
+}
+
 a {
   color: #0077cc; /* Initial color for links */
   text-decoration: none;
